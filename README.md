@@ -1,3 +1,6 @@
+[Symmetric Graph Contrastive Learning against Noisy Views for Recommendation. arXiv:2408.02691.](https://arxiv.org/pdf/2408.02691)
+
+
 <h2>Requirements</h2>
 	
 ```
